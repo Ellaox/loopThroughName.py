@@ -22,3 +22,40 @@ l
 l
 a
 >>> 
+
+firstName = raw_input("Please enter your first name: ")
+print
+print "Each letter of your name follows "
+print
+
+for letter in firstName:
+     print letter
+
+  >>> ================================ RESTART ================================
+>>> 
+Please enter your favourite movie name: O Alto da Compadecida
+
+Each letter of your name follows 
+
+O
+ 
+A
+l
+t
+o
+ 
+d
+a
+ 
+C
+o
+m
+p
+a
+d
+e
+c
+i
+d
+a
+>>>   
